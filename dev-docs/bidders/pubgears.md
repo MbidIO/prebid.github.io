@@ -22,4 +22,4 @@ biddercode_longer_than_12: false
 | Name | Scope | Description | Example |
 | :--- | :---- | :---------- | :------ |
 | `pubZone` | required | The Pubgears site/section | `site.com/ros` |
-| `publisherName` | required | The Pubgears-assigned publisher name | "538562284" |
+| `publisherName` | required | The Pubgears-assigned publisher name | "integration" |
