@@ -445,6 +445,13 @@ To improve the speed and load time of your site, build Prebid.js for only the he
     </div>
   </div>
 
+  <div class="col-md-4">
+    <div class="checkbox">
+      <label>
+        <input type="checkbox" bidderCode="pubgears" class="bidder-check-box"> PubGears 
+      </label>
+    </div>
+  </div>
 
 
 
@@ -452,7 +459,7 @@ To improve the speed and load time of your site, build Prebid.js for only the he
 
 <br>
 <p>
-(Version 0.16.0)
+(Version 0.17.0)
 </p>
 
 <div class="form-group">
